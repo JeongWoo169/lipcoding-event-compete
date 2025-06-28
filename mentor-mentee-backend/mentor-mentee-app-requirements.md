@@ -1,11 +1,3 @@
-# ⚡️ Swagger UI 및 OpenAPI 문서 바로가기
-
-- Swagger UI: [http://localhost:8080/swagger-ui/index.html](http://localhost:8080/swagger-ui/index.html)
-- OpenAPI 문서(JSON): [http://localhost:8080/v3/api-docs](http://localhost:8080/v3/api-docs)
-- 루트 URL([http://localhost:8080](http://localhost:8080)) 접속 시 Swagger UI로 자동 이동
-
----
-
 # 멘토-멘티 매칭 앱 개발 요구사항
 
 ## 앱 개요
@@ -111,9 +103,3 @@
 - SQL 인젝션 공격에 대비해야 합니다.
 - XSS 공격에 대비해야 합니다.
 - OWASP TOP 10 취약점에 대비해야 합니다.
-
-# OpenAPI 및 Swagger UI 자동 링크 안내
-
-- OpenAPI 문서(JSON): [http://localhost:8080/v3/api-docs](http://localhost:8080/v3/api-docs)
-- Swagger UI: [http://localhost:8080/swagger-ui/index.html](http://localhost:8080/swagger-ui/index.html)
-- 루트 URL([http://localhost:8080](http://localhost:8080)) 접속 시 Swagger UI로 자동 이동
